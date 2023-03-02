@@ -1,0 +1,13 @@
+td {
+  border: 1.5px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px rgb(146, 144, 144);
+}
+
+#table {
+  border-spacing: 10px;
+}
+
+th {
+  text-align: start;
+}
