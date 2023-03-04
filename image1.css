@@ -1,5 +1,6 @@
 td {
   border: 1.5px solid black;
+  padding: 2px;
   border-radius: 5px;
   box-shadow: 2px 2px rgb(146, 144, 144);
 }

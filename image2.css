@@ -1,0 +1,23 @@
+body {
+    background-color: #FCFFE7
+}
+
+div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+span {
+    background-color: rgb(185, 184, 184);
+    margin-right: 10px;
+
+}
+
+p {
+    overflow: scroll;
+    height: 60px;
+    overflow-x: hidden;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    font-weight: bold;
+}
